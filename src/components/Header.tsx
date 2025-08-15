@@ -63,7 +63,7 @@ const Header: React.FC<HeaderProps> = ({ darkMode, toggleDarkMode, language, tog
           <div className="flex items-center space-x-4">
             <button 
               onClick={toggleLanguage}
-              className="p-2 rounded-full text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800 transition-colors tooltip"
+              className="p-2 rounded-full text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-800 transition-colors "
               aria-label={language === 'en' ? "Switch to Arabic" : "Switch to English"}
             >
               <Languages size={20} />

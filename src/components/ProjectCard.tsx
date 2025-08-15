@@ -61,7 +61,7 @@ const ProjectCard: React.FC<ProjectCardProps> = ({ project, onClick, language })
           <div className="relative w-full h-full">
             <video 
               ref={videoRef}
-              src={project.thumbnail} 
+              src={project.fullMedia} 
               poster={project.staticImage}
               className="w-full h-full object-cover"
               muted
