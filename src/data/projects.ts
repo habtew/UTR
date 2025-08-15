@@ -203,9 +203,9 @@ const projects: Project[] = [
     description: "A professional insurance brokerage website offering personalized advisory services, policy comparisons, and claim support for individuals and businesses across various insurance categories.",
     descriptionAr: "موقع وساطة تأمينية احترافي يقدم خدمات استشارية مخصصة، ومقارنات بين السياسات، ودعم المطالبات للأفراد والشركات في مختلف فئات التأمين.",
     thumbnail: '/images/meba.png',
-    fullMedia: '/images/mebagif.mp4',
+    fullMedia: '/images/meba.png',
     staticImage: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    mediaType: 'video', // Note: Changed to 'video' since the fullMedia is an .mp4
+    mediaType: 'image', // Note: Changed to 'video' since the fullMedia is an .mp4
     category: 'website',
     tags: ['Landing Page', 'Web Design', 'UX/UI'],
     tagsAr: ['تجارة إلكترونية', 'تصميم مواقع', 'تجربة المستخدم'],
@@ -222,9 +222,9 @@ const projects: Project[] = [
     description: "A locally-owned locksmith service in Central Ohio offering 24/7 emergency assistance for residential, commercial, and automotive needs. Certified, bonded, and insured, they provide immediate response and expert solutions across the Columbus metro area.",
     descriptionAr: "خدمة قفال مملوكة محليًا في وسط أوهايو تقدم مساعدة طارئة على مدار الساعة لاحتياجات السكنية والتجارية والسيارات. معتمدة ومؤمنة، توفر استجابة فورية وحلول خبراء في منطقة كولومبوس الكبرى.",
     thumbnail: '/images/locksmithpicture.png',
-    fullMedia: '/images/locksmithgif.mp4',
+    fullMedia: '/images/locksmithpicture.png',
     staticImage: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    mediaType: 'video', // Note: Changed to 'gif'
+    mediaType: 'image', // Note: Changed to 'gif'
     category: 'website',
     tags: ['E-commerce', 'Web Design', 'UX/UI'],
     tagsAr: ['تجارة إلكترونية', 'تصميم مواقع', 'تجربة المستخدم'],
@@ -240,9 +240,9 @@ const projects: Project[] = [
     description: "A dynamic educational platform offering remote tech internships, expert mentorship, and practical learning resources to help aspiring developers gain real-world experience and career readiness.",
     descriptionAr: "منصة تعليمية ديناميكية توفر تدريبات تقنية عن بُعد، وإرشادًا من خبراء، وموارد تعليمية عملية لمساعدة المطورين الطموحين على اكتساب خبرة واقعية واستعداد مهني.",
     thumbnail: '/images/intertechub.png', // Note: Placeholder, assuming a local thumbnail
-    fullMedia: '/images/intertechubgif.mp4',
+    fullMedia: '/images/intertechub.png',
     staticImage: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    mediaType: 'video', // Note: Changed to 'gif'
+    mediaType: 'image', // Note: Changed to 'gif'
     category: 'website',
     tags: ['Landing', 'Web Design', 'UX/UI'],
     tagsAr: ['تجارة إلكترونية', 'تصميم مواقع', 'تجربة المستخدم'],
@@ -258,9 +258,9 @@ const projects: Project[] = [
     description: "A comprehensive platform offering home renovation and interior design services, connecting homeowners with professionals to transform living spaces. Features include project planning, design consultations, and a portfolio of completed works.",
     descriptionAr: "منصة شاملة تقدم خدمات تجديد المنازل والتصميم الداخلي، تربط أصحاب المنازل بالمهنيين لتحويل المساحات المعيشية. تشمل الميزات تخطيط المشاريع، واستشارات التصميم، ومحفظة من الأعمال المنجزة.",
     thumbnail: '/images/amujapicture.png',
-    fullMedia: '/images/amujagif.mp4', // Corrected extension from .gif to .mp4
+    fullMedia: '/images/amujapicture.png', // Corrected extension from .gif to .mp4
     staticImage: 'https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-    mediaType: 'video', // Note: Changed to 'video'
+    mediaType: 'image', // Note: Changed to 'video'
     category: 'website',
     tags: ['E-commerce', 'Web Design', 'UX/UI'],
     tagsAr: ['تجارة إلكترونية', 'تصميم مواقع', 'تجربة المستخدم'],
